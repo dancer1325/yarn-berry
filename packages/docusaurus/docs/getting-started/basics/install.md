@@ -6,12 +6,12 @@ description: Yarn's in-depth installation guide.
 sidebar_position: 2
 ---
 
-* [Corepack](/corepack)
-  ** == tool / -- shipped by default with -- Node.js
-  ** 👀preferred way to manage Yarn 👀
-    *** modern releases of Yarn are NOT installed -- from -- npm
-  ** `corepack enable`
-    *** -> 👀 `yarn` binary is added | your PATH 👀
+* [Corepack](../extra/corepack.mdx)
+  * == tool / -- shipped by default with -- Node.js
+  * 👀preferred way to manage Yarn 👀
+    * modern releases of Yarn are NOT installed -- from -- npm
+  * `corepack enable`
+    * -> 👀 `yarn` binary is added | your PATH 👀
 
     ```
     # check yarn is installed
@@ -21,7 +21,7 @@ sidebar_position: 2
   ```
   yarn init -2
   ```
-  ** initialize a new project
+  * initialize a new project
 
 ## Updating Yarn
 
